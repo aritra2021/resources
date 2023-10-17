@@ -2,6 +2,13 @@
 
 Collection of cloud resources
 
+## Hosting
+
+1. [Vercel](https://vercel.com/) - Frontend
+2. [Railway](https://railway.app/) - Infrastructure
+3. [Fly.io](https://fly.io/) - Infrastructure
+4. [Render](https://render.com/) - Backend
+
 ## Database
 
 ### Relational Databases
