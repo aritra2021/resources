@@ -14,3 +14,7 @@ Collection of cloud resources
 ### Non-Relational Databases
 
 1. [MonogoDB Atlas](https://www.mongodb.com/atlas/database)
+
+## Data Store
+
+1. [Upstash](https://upstash.com/) (Redis)
