@@ -9,6 +9,13 @@ Collection of cloud resources
 3. [Fly.io](https://fly.io/) - Infrastructure
 4. [Render](https://render.com/) - Backend
 
+## Backend as a system
+
+1. [SupaBase](https://supabase.com/) - Open source firebase alternative
+2. [PocketBase](https://pocketbase.io/) - Self hosted
+3. [Firebase](https://firebase.google.com/)
+4. [AppWrite](https://appwrite.io/)
+
 ## Database
 
 ### Relational Databases
